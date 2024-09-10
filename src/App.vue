@@ -30,7 +30,7 @@ import ContactSection from './components/ContactSection.vue'
 
 header {
   background-color: #4CAF50;
-  color: white;
+  color: black;
   padding: 20px;
 }
 

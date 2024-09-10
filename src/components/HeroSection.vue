@@ -1,7 +1,8 @@
 <template>
     <section class="hero">
         <img :src="logo" alt="Logo du revendeur de bois" class="hero-logo" />
-        <h2>Bienvenue chez Bois Valais, votre fournisseur de bois local</h2>
+        <h2>Bienvenue chez Bois Valais, votre fssournisseur de bois local</h2>
+        <h2>Une qualité inimaginable</h2>
       <p>Nous fournissons des matériaux de bois de haute qualité pour tous vos besoins de construction et de rénovation.</p>
     </section>
   </template>
@@ -16,7 +17,7 @@ import logo from '../assets/logo.gif';
     padding: 50px 20px;
     background: url('/path/to/forest-image.jpg') no-repeat center center;
     background-size: cover;
-    color: white;
+    color: whiblackte;
   }
   
   .hero-logo {
