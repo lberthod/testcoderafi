@@ -6,15 +6,15 @@
         <div class="service-icon">
           <i class="fas fa-tree"></i>
         </div>
-        <h3>Vente de Bois de Construction</h3>
-        <p>Des matériaux de haute qualité pour tous vos projets.</p>
+        <h3>Vente de Bois de chauffage</h3>
+        <p>Le meilleur bois pour chauffer votre domicile</p>
       </div>
       <div class="service" @mouseover="handleMouseOver" @mouseleave="handleMouseLeave">
         <div class="service-icon">
           <i class="fas fa-truck"></i>
         </div>
-        <h3>Livraison rapide</h3>
-        <p>Nous livrons rapidement dans toute la région du Valais.</p>
+        <h3>Livraison gratuite</h3>
+        <p>Nous livrons gratuitement à partir de 3 stères dans toute la région du Valais.</p>
       </div>
       <div class="service" @mouseover="handleMouseOver" @mouseleave="handleMouseLeave">
         <div class="service-icon">

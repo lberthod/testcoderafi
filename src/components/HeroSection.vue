@@ -1,15 +1,15 @@
 <template>
   <section class="hero">
     <img :src="logo" alt="Logo du revendeur de bois" class="hero-logo" />
-    <h2 class="hero-title">Bienvenue chez Bois Valais, votre fournisseur de bois local</h2>
+    <h2 class="hero-title">Bienvenue chez Serafim Bois, votre fournisseur de bois local</h2>
     <h2 class="hero-subtitle">Une qualité inimaginable</h2>
-    <p class="hero-description">Nous fournissons des matériaux de bois de haute qualité pour tous vos besoins de construction et de rénovation.</p>
+    <p class="hero-description">Nous vous fournissons du bois de haute qualité pour chauffer votre domicile.</p>
   </section>
 </template>
 
 <script setup>
 // Importation de l'image depuis les assets
-import logo from '../assets/logo.gif';
+import logo from '../assets/logo.png';
 </script>
 
 <style scoped>

@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <header class="app-header">
-      <h1 class="header-title">Bois de Qualité à Grône, Valais</h1>
-      <p class="header-subtitle">Le meilleur bois pour vos projets, directement du cœur du Valais.</p>
+      <h1 class="header-title">Serafim Bois</h1>
+      <p class="header-subtitle">Le meilleur bois pour votre chauffage, directement du cœur du Valais.</p>
     </header>
     
     <HeroSection />
@@ -10,7 +10,7 @@
     <ContactSection />
 
     <footer class="app-footer">
-      <p>&copy; 2024 Revendeur de Bois, Grône - Tous droits réservés.</p>
+      <p>&copy; 2024 Serafim Bois, Grône - Tous droits réservés.</p>
     </footer>
   </div>
 </template>
